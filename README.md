@@ -2,7 +2,8 @@
 -------------------------------
 
 ### Welcome to my GitHub page!
-### I'm Andrew Thien Nguyen, Data Scientist/AI engineer from Vietnam ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/24ba313c-40b8-434f-82f0-7f4940cd403a)
+### I'm Andrew Thien Nguyen, Data Scientist/AI engineer from Vietnam ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/24ba313c-40b8-434f-82f0-7f4940cd403a) and currently living in Sweden ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/f6e9c932-fc6d-4132-9976-b93f6da8a3b6)
+
 
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/AndrewNguyen27296/AndrewNguyen27296/ama)
