@@ -5,7 +5,8 @@
 ### I'm Andrew Thien Nguyen, Data Scientist/AI engineer from Vietnam ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/24ba313c-40b8-434f-82f0-7f4940cd403a) and currently living in Sweden ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/f6e9c932-fc6d-4132-9976-b93f6da8a3b6)
 
 ### Things I code with 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/7962af7b-fc0b-4dc4-972d-d6a95e4e3c31)
+
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/AndrewNguyen27296/AndrewNguyen27296/ama)
 
