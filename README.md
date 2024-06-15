@@ -1,3 +1,9 @@
+# Hi! Nice to see you.
+-------------------------------
+
+### Welcome to my GitHub page!
+### I'm Andrew Thien Nguyen, Data Scientist/AI engineer from Vietnam 🇻🇳
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/AndrewNguyen27296/AndrewNguyen27296/ama)
 
 <!--
