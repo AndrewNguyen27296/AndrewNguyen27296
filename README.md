@@ -1,4 +1,4 @@
-# ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/4c932028-ce17-447c-aad5-a8fd67e45bc2) Hi! Nice to see you.
+# ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/3acace2b-d78c-4118-b4f4-5562a47a1eee) Hi! Nice to see you.
 -------------------------------
 
 ### Welcome to my GitHub page!
