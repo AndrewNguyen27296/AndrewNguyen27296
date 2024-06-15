@@ -5,7 +5,8 @@
 ### I'm Andrew Thien Nguyen, Data Scientist/AI engineer from Vietnam ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/24ba313c-40b8-434f-82f0-7f4940cd403a) and currently living in Sweden ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/f6e9c932-fc6d-4132-9976-b93f6da8a3b6)
 
 ### Things I code with 
-![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/7962af7b-fc0b-4dc4-972d-d6a95e4e3c31) ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/05d6d8a0-e3ae-4210-a769-131e1d85a37a)
+![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/7962af7b-fc0b-4dc4-972d-d6a95e4e3c31) ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/05d6d8a0-e3ae-4210-a769-131e1d85a37a) ![image](https://github.com/AndrewNguyen27296/AndrewNguyen27296/assets/24667111/32281dac-4d3d-4a7c-a6fb-37ae61a6efd5)
+
 
 
 
