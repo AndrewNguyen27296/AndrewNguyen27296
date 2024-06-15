@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/AndrewNguyen27296/AndrewNguyen27296/ama)
 
 <!--
 **AndrewNguyen27296/AndrewNguyen27296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
